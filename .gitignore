@@ -37,3 +37,7 @@
 
 #vscode config folder
 **/.vscode/**
+
+#jetbrain
+**/.idea/**
+**/cmake-build-*/**
